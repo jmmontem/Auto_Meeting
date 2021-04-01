@@ -1,2 +1,2 @@
 # Auto_Meeting
-Automatically Joins A Zoom Meeting
+Python Script for Zoom Meetings
